@@ -10,5 +10,3 @@ Modelin son haline build_model_part2.py üzerinden bakaiblirsiniz.
 test_model.py oluşturduğumuz modelin testi için gereklidir.
 
 Görüntü İşleme Özelinde Yapay Zeka sunumum Boğaziçi Üniversitesi TechSummit 20 için yapmış olduğum sunum. Merak ede incelemek isteyenler için bunu da koydum.
-
-Keyifli çalışmalar,
